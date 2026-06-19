@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, I'm **Harsh Takhur**</div>
+# <div align="center">👋 Hi, I'm **Harsh Thakur**</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Java+Developer;Passionate+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
